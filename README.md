@@ -27,4 +27,9 @@
 밝기 조절은 바를 활용 합니다.\
 <img src="https://user-images.githubusercontent.com/59274370/138645716-5b5d1370-4ebc-4c54-b054-d4043ad4d6be.jpg" width="80%" height="60%">
 
+
+필터는 Beauty, Natural, Nature, Pastel, Analog 가 있습니다
 <img src="https://user-images.githubusercontent.com/59274370/138647356-f179cf41-aee4-4c77-8055-f44bbbd6ba76.jpg" width="80%" height="60%">
+
+자르기는 왼쪽 박스는 자르는 위치를 변경하는데 사용합니다. 오르쫀 박스는 자르는 크기를 결정 합니다.\
+<img src="https://user-images.githubusercontent.com/59274370/138649982-9073721b-8031-4499-a01c-efac132bc4e8.jpg" width="80%" height="60%">
