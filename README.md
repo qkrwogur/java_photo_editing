@@ -25,4 +25,4 @@
 <img src="https://user-images.githubusercontent.com/59274370/138645235-8521f7ae-a84a-416e-aa73-3cd1e1f6908f.jpg" width="80%" height="60%">
 
 밝기 조절은 바를 활용 합니다.\
-https://user-images.githubusercontent.com/59274370/138645716-5b5d1370-4ebc-4c54-b054-d4043ad4d6be.jpg
+<img src="https://user-images.githubusercontent.com/59274370/138645716-5b5d1370-4ebc-4c54-b054-d4043ad4d6be.jpg" width="80%" height="60%">
