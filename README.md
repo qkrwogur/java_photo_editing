@@ -33,3 +33,6 @@
 
 자르기는 왼쪽 박스는 자르는 위치를 변경하는데 사용합니다. 오르쫀 박스는 자르는 크기를 결정 합니다.\
 <img src="https://user-images.githubusercontent.com/59274370/138649982-9073721b-8031-4499-a01c-efac132bc4e8.jpg" width="80%" height="60%">
+
+자른 결과 입니다.\
+<img src="https://user-images.githubusercontent.com/59274370/138650738-603661f7-1cf1-4ad0-9870-01b9d729e4c2.jpg" width="80%" height="60%">
