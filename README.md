@@ -39,3 +39,5 @@
 
 돋보기는 기능은 마우스가 클릭된 부분이 확대 됩니다.\
 <img src="https://user-images.githubusercontent.com/59274370/138650854-c0560a34-a68e-4b98-8a7c-dff91c6133a8.jpg" width="80%" height="60%">
+
+모둔 편집이 끝난 사진은 저장 할 수 있습니다.
