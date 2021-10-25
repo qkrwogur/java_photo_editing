@@ -26,3 +26,5 @@
 
 밝기 조절은 바를 활용 합니다.\
 <img src="https://user-images.githubusercontent.com/59274370/138645716-5b5d1370-4ebc-4c54-b054-d4043ad4d6be.jpg" width="80%" height="60%">
+
+
