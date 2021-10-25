@@ -11,3 +11,5 @@
 
 사용 가능한 기능은 자동 보정, 회전하기, 밝기, 필터, 자르기, 돋보기 입니다.\
 <img src="https://user-images.githubusercontent.com/59274370/138643149-183d3bae-aba2-4e46-ae42-36b372e4c740.jpg" width="70%" height="60%">
+
+
